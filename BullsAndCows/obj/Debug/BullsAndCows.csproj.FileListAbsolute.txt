@@ -1,0 +1,15 @@
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csprojAssemblyReference.cache
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\obj\Debug\MainWindow.g.cs
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\obj\Debug\App.g.cs
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows_MarkupCompile.cache
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows_MarkupCompile.lref
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\obj\Debug\MainWindow.baml
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.g.resources
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Properties.Resources.resources
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.GenerateResource.cache
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.exe
+C:\Users\я\source\repos\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.pdb
